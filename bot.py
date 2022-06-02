@@ -4,7 +4,7 @@ from rubika.client import Bot
 import requests
 import json
 
-search ='ریمیکس'
+search ='متن'
 bot = Bot('appname',auth='kljgniakxetdayrhziuwjejkbncmexbo')
 target='c0BGk7v01e5cf64a51a042d06014ae44'
 
